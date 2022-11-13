@@ -1,0 +1,174 @@
+body{
+  font-family: 'Montserrat';
+}
+
+#title{
+  background-color: #FFCB37;
+}
+
+h1{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.7;
+  font-weight: 900;
+  margin-top: 4.5rem;
+  /* padding-right: 3rem; */
+ }
+
+.container-fluid{
+  padding: 3% 15%
+}
+
+/* navbar */
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  color: white;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 10px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 500;
+}
+.nav-link:hover{
+  color: white;
+}
+/* Download Buttons */
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+
+/* title image */
+.div-title-image{
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+.title-image{
+  margin: 0 0 1.5rem 3rem;
+}
+
+/* Features */
+#features{
+  position: relative;
+  background-color: white;
+  padding: 3rem 0;
+}
+.features-box{
+  margin: 4rem 0;
+}
+.features{
+  text-align: center;
+  margin: 2rem 0;
+}
+h3{
+  font-weight: 600;
+}
+.features-icon{
+  padding-bottom: 1rem;
+  color: #f4f29c;
+}
+.features-icon:hover{
+  color: #FFCB37;
+}
+.p-features{
+  color: #8f8f8f;
+}
+
+/* <!-- Testimonials --> */
+#testimonials{
+  background-color: #FFCB37;
+  text-align: center;
+  font-family: "Montserrat";
+}
+.carousel-item{
+  padding: 5% 17%;
+}
+
+h2{
+  font-weight: 900;
+  height: 50%;
+  margin: 0 0 1rem 0;
+  line-height: 1.5;
+}
+em{
+  font-size: 1.25rem;
+}
+.testimonialpictures1{
+  margin: 0.5rem 0;
+  border-radius: 100%;
+  width: 70%;
+}
+.testimonialpictures2{
+  margin: 0.5rem 0;
+  border-radius: 100%;
+  width: 400px;
+}
+.testimonialpictures3{
+  margin: 0.5rem 0;
+  border-radius: 100%;
+  width: 55%;
+}
+
+
+/* press */
+
+#press{
+  background-color: #FFCB37;
+  padding: 0 0 2rem 0;
+  text-align: center;
+}
+.press-logo{
+  width: 13%;
+  margin: 0 40px 0;
+}
+.press-logo2{
+  height: 80px;
+  margin: 0 40px 0;
+}
+
+/* <!-- Pricing --> */
+
+#pricing{
+  text-align: center;
+  padding: 100px 0;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+
+
+/* Call to action */
+#cta{
+  background-color: #FFCB37;
+}
+.cta{
+  padding: 8% 15% 4%;
+  text-align: center;
+}
+.ctah3{
+  font-size: 3rem;
+  margin: 0 0 2rem;
+  line-height: 1.5;
+}
+
+
+/* Footer */
+
+
+#footer{
+  text-align: center;
+  padding: 8% 15% 4%;
+}
+p{
+  margin: 2rem;
+}
+.buttonfooter{
+  margin: 0.5rem;
+}
